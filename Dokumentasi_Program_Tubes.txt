@@ -1,0 +1,24 @@
+Dokumentasi Program 
+
+1. Program ini menampilkan katalog tas,katalog Sepatu,data pembelian yang berisi nama,alamat,
+   pengiriman,dan total pembayaran.
+
+2. Cara menggunakan program :
+   1. Ketika program dijalankan akan muncul tampilan menu 1 sampai menu 4.
+   2. Anda bisa memilih salah satu menu dengan memasukkan angka pada "Pilih menu 1-4".
+   3. Pada menu 1.Katalog tas Anda akan melihat informasi tas, pada menu 2. Katalog Sepatu
+      Anda akan melihat informasi sepatu.
+   4. Pada menu 3. Data Pembelian, Anda akan mengisi nama,alamat lengkap,kode barang tas/sepatu 
+      serta jumlah barang yang akan dibeli.Ketika Anda sudah mengisi Anda bisa menekan enter dan
+      dan memasuka Y/y untuk kembali ke menu.
+   5. Setelah Anda selesai menggunakan program Anda bisa memilih menu 4.Keluar. 
+
+3. Keterkaitan dengan OOP :
+   1. Abstrak berada pada file abstrak.java.
+   2. Enkapsulasi berada pada file enkapsulasi.java.
+   3. Interface berada pada file implementampilan.java.
+   4. Inheritance berada pada file hitbrg.java.
+   5. Overriding berada pada file hitbrg.java dan kelastmp.java.
+   6. Generic Method berada pada file generikdata.java.
+   7. Generic Class berada pada file genclass.java
+   8. Terdapat 2 package : Default package dan toko.
